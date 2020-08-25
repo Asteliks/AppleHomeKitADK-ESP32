@@ -7,4 +7,5 @@ This repository contains my examples of the [HomeKit](https://developer.apple.co
 ## Resources
   * Working with HomeKit : [https://developer.apple.com/homekit/](https://developer.apple.com/homekit/)
   * How to use the Home app : [https://support.apple.com/en-us/HT204893](https://support.apple.com/en-us/HT204893)
+  * Apple HomeKit ADK : [https://github.com/apple/HomeKitADK](https://github.com/apple/HomeKitADK)
   * Espressif port : [https://github.com/espressif/esp-apple-homekit-adk](https://github.com/espressif/esp-apple-homekit-adk)
